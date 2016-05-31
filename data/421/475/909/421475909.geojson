@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Savero",
+    "geom:area":0.006626,
+    "geom:bbox":"26.9034079782,60.8023479775,27.0541387674,60.8623190684",
+    "geom:latitude":60.831689,
+    "geom:longitude":26.97995,
     "gp:parent_id":"12590761",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":60.830819,
+    "lbl:longitude":26.981495,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683081,
+        404227411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12829451"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"456858e306cbefb0db61b6a206be9322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227411,
+            "postalcode_id":421475909,
+            "region_id":85683081
+        }
+    ],
     "wof:id":421475909,
-    "wof:lastmodified":1459819575,
+    "wof:lastmodified":1464735009,
     "wof:name":"45460",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683081,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    26.903407978164598,
+    60.80234797746364,
+    27.054138767448148,
+    60.86231906837788
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.00801608474751,60.80702619503189],[26.99011545288312,60.80234797746364],[26.91898532539545,60.80745805484281],[26.9034079781646,60.80980498135517],[26.91365323024819,60.8437458255065],[26.91343005133366,60.84400342412007],[26.91369694504398,60.84421161698045],[26.9921162183123,60.86100684030021],[27.03358218455729,60.86231906837788],[27.04223533660747,60.85569405095226],[27.05413876744815,60.84206226901384],[27.05225218718064,60.8377403083145],[27.03325755075467,60.81517504669119],[27.00801608474751,60.80702619503189]]]],"type":"MultiPolygon"}
 }

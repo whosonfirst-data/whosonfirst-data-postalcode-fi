@@ -4,12 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Ilmala",
+    "geom:area":0.000028,
+    "geom:bbox":"24.9158117568,60.2119135107,24.9234933705,60.2171386758",
+    "geom:latitude":60.214591,
+    "geom:longitude":24.919687,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.214611,
+    "lbl:longitude":24.919687,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -22,7 +26,7 @@
         "gp:id":"12827994"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"62aa1902029b8e081a1c50571c7baca2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -34,19 +38,19 @@
         }
     ],
     "wof:id":421473009,
-    "wof:lastmodified":1459819480,
+    "wof:lastmodified":1464734888,
     "wof:name":"00230",
-    "wof:parent_id":"101748417",
+    "wof:parent_id":101748417,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.915811756766388,
+    60.211913510662484,
+    24.92349337052612,
+    60.21713867581813
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.92349337052612,60.21646738843223],[24.92135009410769,60.21191351066248],[24.91581175676639,60.2125183227126],[24.91679871388121,60.21484513631722],[24.91810321404182,60.21711538905788],[24.92114438887847,60.21713867581813],[24.92349337052612,60.21646738843223]]]],"type":"MultiPolygon"}
 }

@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Keskussairaala-alue-Kimpinen",
+    "geom:area":0.000178,
+    "geom:bbox":"28.2020334752,61.0611611098,28.2187620456,61.0756369541",
+    "geom:latitude":61.068378,
+    "geom:longitude":28.210805,
     "gp:parent_id":"568782",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":61.068005,
+    "lbl:longitude":28.210646,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683103,
+        404227411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12829649"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82f9b4d6f9fa6be95e606977ada95777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227411,
+            "postalcode_id":421476323,
+            "region_id":85683103
+        }
+    ],
     "wof:id":421476323,
-    "wof:lastmodified":1459819588,
+    "wof:lastmodified":1464735061,
     "wof:name":"53130",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683103,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    28.20203347523358,
+    61.0611611098372,
+    28.218762045606532,
+    61.07563695407388
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.2184903567528,61.06183383125923],[28.21023941150116,61.0611611098372],[28.20720535532748,61.06292225194692],[28.20517293500818,61.063452851349],[28.20393152397925,61.06559038734986],[28.20203347523358,61.07188749908498],[28.20559033266751,61.07430390947864],[28.21876204560653,61.07563695407388],[28.21662697469103,61.07230807160123],[28.21591777181149,61.07041528345943],[28.2174784044558,61.06763525918109],[28.21801290080398,61.06583580401076],[28.2184903567528,61.06183383125923]]]],"type":"MultiPolygon"}
 }

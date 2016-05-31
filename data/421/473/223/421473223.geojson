@@ -4,49 +4,53 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Vantaanlaakso",
+    "geom:area":0.000371,
+    "geom:bbox":"24.8556757734,60.272335406,24.8898040899,60.2946128398",
+    "geom:latitude":60.283391,
+    "geom:longitude":24.873485,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.283383,
+    "lbl:longitude":24.873744,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
         85633143,
         404227411,
-        101748417
+        101748419
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12828095"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0a23463bc248cb801994e9ee45141cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":101748417,
+            "locality_id":101748419,
             "macroregion_id":404227411,
             "postalcode_id":421473223,
             "region_id":85683067
         }
     ],
     "wof:id":421473223,
-    "wof:lastmodified":1459819487,
+    "wof:lastmodified":1464735044,
     "wof:name":"01670",
-    "wof:parent_id":"101748417",
+    "wof:parent_id":101748419,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.855675773438225,
+    60.27233540603431,
+    24.889804089944676,
+    60.29461283980786
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.88980408994468,60.27379910232311],[24.8819138205169,60.27233540603431],[24.87003310046564,60.27355242470919],[24.87096635578406,60.27488737126532],[24.86306661516324,60.28729447041193],[24.8585306383631,60.2866245393359],[24.85567577343823,60.28636931934489],[24.86014634287552,60.28881045101509],[24.8589000048875,60.29122170098984],[24.85816540093948,60.29288592966485],[24.86496985304061,60.29461283980786],[24.87459155227741,60.29349602060279],[24.88980408994468,60.27379910232311]]]],"type":"MultiPolygon"}
 }

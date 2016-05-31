@@ -4,12 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"H\u00e4meenlinna sairaala-alue",
+    "geom:area":0.00003,
+    "geom:bbox":"24.4097088447,60.9857302278,24.4182366653,60.9933563705",
+    "geom:latitude":60.989084,
+    "geom:longitude":24.41359,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.989442,
+    "lbl:longitude":24.415076,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -22,7 +26,7 @@
         "gp:id":"12828406"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c9a46e41e20ab5d6cf38fe9d62998ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -34,19 +38,19 @@
         }
     ],
     "wof:id":421473875,
-    "wof:lastmodified":1459819508,
+    "wof:lastmodified":1464735180,
     "wof:name":"13530",
-    "wof:parent_id":"101815409",
+    "wof:parent_id":101815409,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.409708844650773,
+    60.985730227762545,
+    24.41823666527272,
+    60.99335637046877
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.41823666527272,60.98959835313551],[24.41784567105366,60.98897179990958],[24.41575055850279,60.98781009409997],[24.41399441217721,60.98686043107138],[24.41195276803939,60.98573022776255],[24.40970884465077,60.98639628043122],[24.40979496390606,60.98740712450493],[24.41110995709461,60.98915610028417],[24.41241548595299,60.9891933934875],[24.41341712447079,60.98922199688485],[24.41216639919647,60.98956786677568],[24.41178424335158,60.99335637046877],[24.41823666527272,60.98959835313551]]]],"type":"MultiPolygon"}
 }

@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Kaloinen",
+    "geom:area":0.00008,
+    "geom:bbox":"24.3868047908,60.8352272289,24.4030733868,60.8448445442",
+    "geom:latitude":60.840416,
+    "geom:longitude":24.396005,
     "gp:parent_id":"12590648",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":60.840159,
+    "lbl:longitude":24.396128,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683077,
+        404227411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12828420"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87fdb3788229194a4d85696c4405a8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227411,
+            "postalcode_id":421473901,
+            "region_id":85683077
+        }
+    ],
     "wof:id":421473901,
-    "wof:lastmodified":1459819509,
+    "wof:lastmodified":1464735183,
     "wof:name":"14330",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683077,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.38680479077129,
+    60.83522722888157,
+    24.403073386802,
+    60.84484454418899
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.4012931823559,60.83533145513496],[24.39957695947434,60.83522722888157],[24.39380668982691,60.83796677549231],[24.38680479077129,60.84484454418899],[24.39572617266859,60.84474630728467],[24.3971607361267,60.84276921487801],[24.403073386802,60.83977605626862],[24.40293657744419,60.8372853320402],[24.4012931823559,60.83533145513496]]]],"type":"MultiPolygon"}
 }

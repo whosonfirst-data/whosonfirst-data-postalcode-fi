@@ -4,12 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Keinusaari",
+    "geom:area":0.000077,
+    "geom:bbox":"24.4700588139,60.9943921656,24.4879445935,61.0037329186",
+    "geom:latitude":60.999324,
+    "geom:longitude":24.478227,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.999902,
+    "lbl:longitude":24.476601,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -22,7 +26,7 @@
         "gp:id":"12828394"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e022de15d5737e46148200e96f83d9ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -34,19 +38,19 @@
         }
     ],
     "wof:id":421473855,
-    "wof:lastmodified":1459819508,
+    "wof:lastmodified":1464735181,
     "wof:name":"13200",
-    "wof:parent_id":"101815409",
+    "wof:parent_id":101815409,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.470058813931455,
+    60.99439216555913,
+    24.487944593463485,
+    61.00373291857499
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.48794459346349,60.99746046185289],[24.48472052854926,60.99704033101428],[24.48209758228296,60.99599707575029],[24.48462809863402,60.99506683405489],[24.48259023222778,60.99439216555913],[24.47844617949763,60.99659349872265],[24.47580676878165,60.99622026685613],[24.47329712536569,60.99826892796163],[24.47005881393146,61.00251803085398],[24.47295276197076,61.00311734021814],[24.47610907312233,61.00373291857499],[24.48794459346349,60.99746046185289]]]],"type":"MultiPolygon"}
 }

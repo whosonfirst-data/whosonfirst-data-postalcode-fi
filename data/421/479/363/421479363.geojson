@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Jeesi\u00f6j\u00e4rvi",
+    "geom:area":0.029678,
+    "geom:bbox":"25.3244140757,67.6427292766,25.6445380962,67.7924391862",
+    "geom:latitude":67.708124,
+    "geom:longitude":25.473198,
     "gp:parent_id":"12590785",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":67.721062,
+    "lbl:longitude":25.454184,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683147,
+        404227409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12831171"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e0d4e9d121baaf42b9f6853ead66423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227409,
+            "postalcode_id":421479363,
+            "region_id":85683147
+        }
+    ],
     "wof:id":421479363,
-    "wof:lastmodified":1459819705,
+    "wof:lastmodified":1464734998,
     "wof:name":"99230",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683147,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    25.324414075740307,
+    67.64272927660878,
+    25.644538096239916,
+    67.79243918621377
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[25.63327628919948,67.67334994507053],[25.52506108842827,67.64272927660878],[25.50359951560894,67.64484761173821],[25.34442178194462,67.6630594434389],[25.32469925634948,67.67807761529562],[25.32441407574031,67.67828407616258],[25.33484875236308,67.70526246120576],[25.40388061434312,67.7803471561177],[25.43734555889463,67.79243918621377],[25.46818359414586,67.79094297956412],[25.64453809623992,67.69098336278032],[25.63941498867043,67.682525290481],[25.63327628919948,67.67334994507053]]]],"type":"MultiPolygon"}
 }

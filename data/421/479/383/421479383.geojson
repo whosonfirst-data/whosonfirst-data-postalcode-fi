@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Pallastunturi",
+    "geom:area":0.009536,
+    "geom:bbox":"23.958304431,67.9952338637,24.1311555113,68.0846039058",
+    "geom:latitude":68.038846,
+    "geom:longitude":24.044032,
     "gp:parent_id":"12590785",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":68.040362,
+    "lbl:longitude":24.045678,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683147,
+        404227409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12831180"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e66ec36711690f1abdfdbccf36af13c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227409,
+            "postalcode_id":421479383,
+            "region_id":85683147
+        }
+    ],
     "wof:id":421479383,
-    "wof:lastmodified":1459819705,
+    "wof:lastmodified":1464735015,
     "wof:name":"99330",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683147,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    23.95830443104751,
+    67.99523386367136,
+    24.131155511281097,
+    68.08460390579467
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.09760472095337,68.02225163221416],[24.05625854344847,67.99523386367136],[24.00708862235581,67.99990611708388],[23.97737350164089,68.00934992386834],[23.95830443104751,68.03733323974801],[24.04493447449344,68.08460390579467],[24.09204986966402,68.07710835232564],[24.1311555112811,68.04850079374633],[24.09760472095337,68.02225163221416]]]],"type":"MultiPolygon"}
 }

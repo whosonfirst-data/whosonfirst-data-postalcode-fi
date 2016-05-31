@@ -4,12 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Pajam\u00e4ki",
+    "geom:area":0.000087,
+    "geom:bbox":"24.850057941,60.2125702124,24.865315457,60.2203509548",
+    "geom:latitude":60.216795,
+    "geom:longitude":24.856638,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.216498,
+    "lbl:longitude":24.856638,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -22,7 +26,7 @@
         "gp:id":"12828007"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f1fd8df3b14ea37fe7a618467de43f46",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -34,19 +38,19 @@
         }
     ],
     "wof:id":421473039,
-    "wof:lastmodified":1459819481,
+    "wof:lastmodified":1464734931,
     "wof:name":"00360",
-    "wof:parent_id":"101748417",
+    "wof:parent_id":101748417,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.850057940960575,
+    60.21257021242994,
+    24.865315456994622,
+    60.22035095480237
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.85888539872446,60.21287555240888],[24.85306432664448,60.21259894721697],[24.85129054052054,60.21257021242994],[24.85005794096057,60.22004366015312],[24.86102007488764,60.22035095480237],[24.86531545699462,60.21852937430995],[24.85888539872446,60.21287555240888]]]],"type":"MultiPolygon"}
 }

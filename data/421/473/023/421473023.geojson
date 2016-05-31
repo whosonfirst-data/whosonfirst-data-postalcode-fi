@@ -4,12 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Meilahden sairaala-alue",
+    "geom:area":0.000043,
+    "geom:bbox":"24.8990280415,60.1853847895,24.9124316474,60.1913702325",
+    "geom:latitude":60.189056,
+    "geom:longitude":24.906508,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.188672,
+    "lbl:longitude":24.907728,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85683067,
         102191581,
@@ -22,7 +26,7 @@
         "gp:id":"12828000"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"10baa08bd21b48c814211ce1c8ee52df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -34,19 +38,19 @@
         }
     ],
     "wof:id":421473023,
-    "wof:lastmodified":1459819480,
+    "wof:lastmodified":1464735098,
     "wof:name":"00290",
-    "wof:parent_id":"101748417",
+    "wof:parent_id":101748417,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.899028041531672,
+    60.185384789494776,
+    24.912431647419407,
+    60.191370232493696
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.91057877202253,60.19090695928723],[24.91243164741941,60.18842309232767],[24.90967984052759,60.18666864549503],[24.90813904314744,60.18538478949478],[24.90469622243802,60.18741498235869],[24.90281942647655,60.18821502454394],[24.90169680184196,60.18917029253117],[24.89902804153167,60.1911075236042],[24.90021967916944,60.1913702324937],[24.90102868451912,60.19132706122919],[24.90104901960564,60.19133392306028],[24.90752471312622,60.191122792972],[24.91057877202253,60.19090695928723]]]],"type":"MultiPolygon"}
 }

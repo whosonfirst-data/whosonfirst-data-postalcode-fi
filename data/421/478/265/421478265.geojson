@@ -4,49 +4,51 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Tuopanjoki",
+    "geom:area":0.00002,
+    "geom:bbox":"29.5638660397,63.0334149705,29.5765741889,63.0363414399",
+    "geom:latitude":63.034674,
+    "geom:longitude":29.570907,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":63.034716,
+    "lbl:longitude":29.571965,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        85683133,
         102191581,
         85633143,
-        404227407,
-        101814365
+        85683133,
+        404227407
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12830594"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"fd00787a77f465c5e72d34e8fcd99cad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":101814365,
             "macroregion_id":404227407,
             "postalcode_id":421478265,
             "region_id":85683133
         }
     ],
     "wof:id":421478265,
-    "wof:lastmodified":1459819656,
+    "wof:lastmodified":1464735141,
     "wof:name":"83985",
-    "wof:parent_id":"101814365",
+    "wof:parent_id":85683133,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    29.563866039710103,
+    63.033414970462665,
+    29.576574188872083,
+    63.036341439899715
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[29.57657418887208,63.03569214499942],[29.57302486461078,63.03341497046267],[29.5638660397101,63.03373691309424],[29.5645595225839,63.03425046764772],[29.57351014721909,63.03634143989972],[29.57657418887208,63.03569214499942]]]],"type":"MultiPolygon"}
 }

@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Meltolan sairaala-alue",
+    "geom:area":0.000283,
+    "geom:bbox":"23.7897505524,60.1030913977,23.8203083415,60.1198980068",
+    "geom:latitude":60.112409,
+    "geom:longitude":23.802782,
     "gp:parent_id":"56071678",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":60.112753,
+    "lbl:longitude":23.797458,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683067,
+        404227411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12828341"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5787efe75bed0f4acebd52ecdef9039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227411,
+            "postalcode_id":421473745,
+            "region_id":85683067
+        }
+    ],
     "wof:id":421473745,
-    "wof:lastmodified":1459819504,
+    "wof:lastmodified":1464735033,
     "wof:name":"10350",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683067,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    23.789750552359337,
+    60.103091397693504,
+    23.82030834147694,
+    60.11989800679105
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.81914032297634,60.11418222263934],[23.82030834147694,60.10985371784055],[23.81428471765241,60.10933831435719],[23.8034581752484,60.11054251628034],[23.80018457444525,60.10789026152187],[23.80272492221378,60.10364454308762],[23.80192806172068,60.1030913976935],[23.79466411030765,60.10475385812334],[23.79325595809819,60.10464344915636],[23.78975055235934,60.10765702228427],[23.79012526708184,60.11019961190811],[23.79158043206584,60.11516115311951],[23.79324038322052,60.11706765718857],[23.79421742777255,60.11798991798504],[23.80412935702154,60.11989800679105],[23.81914032297634,60.11418222263934]]]],"type":"MultiPolygon"}
 }

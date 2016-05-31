@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Kisakallio",
+    "geom:area":0.000074,
+    "geom:bbox":"24.03675338,60.3181770938,24.0547755292,60.325060939",
+    "geom:latitude":60.321861,
+    "geom:longitude":24.043528,
     "gp:parent_id":"12591005",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":60.321431,
+    "lbl:longitude":24.042455,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683067,
+        404227411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12828317"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b9f30ec627aa30e1e824625d6a6672e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227411,
+            "postalcode_id":421473691,
+            "region_id":85683067
+        }
+    ],
     "wof:id":421473691,
-    "wof:lastmodified":1459819502,
+    "wof:lastmodified":1464734921,
     "wof:name":"08360",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683067,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.0367533799857,
+    60.318177093769414,
+    24.05477552915136,
+    60.32506093900383
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.05477552915136,60.32344712724177],[24.04271614816511,60.31817709376941],[24.03737030936465,60.3188357439069],[24.0371028863013,60.31967122752285],[24.0367533799857,60.32163695124511],[24.03682008858036,60.3223892071182],[24.03827491488133,60.32506093900383],[24.05477552915136,60.32344712724177]]]],"type":"MultiPolygon"}
 }

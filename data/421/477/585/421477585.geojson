@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"It\u00e4-Karttula-Riuttasenp\u00e4\u00e4",
+    "geom:area":0.001386,
+    "geom:bbox":"27.1041000749,62.9140333747,27.188500365,62.9481608399",
+    "geom:latitude":62.934467,
+    "geom:longitude":27.140488,
     "gp:parent_id":"12590732",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":62.933186,
+    "lbl:longitude":27.125782,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683131,
+        404227407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12830247"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26c5ea6822c52a818435e14235b4c24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227407,
+            "postalcode_id":421477585,
+            "region_id":85683131
+        }
+    ],
     "wof:id":421477585,
-    "wof:lastmodified":1459819635,
+    "wof:lastmodified":1464734975,
     "wof:name":"72140",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683131,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    27.104100074875475,
+    62.914033374665436,
+    27.188500364962913,
+    62.94816083992651
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.15094255678511,62.9180274356603],[27.14531331487758,62.91403337466544],[27.12405934775221,62.92120113658313],[27.10410007487548,62.92362195823185],[27.11165992439275,62.9395678065694],[27.12434722560637,62.94561046877805],[27.12968405717007,62.94613530624939],[27.15311535813672,62.94816083992651],[27.18850036496291,62.93875784134566],[27.18487696738385,62.93387610625944],[27.17282153650192,62.93339626283041],[27.13632201124371,62.92886188608208],[27.13701478025091,62.9231563522186],[27.15094255678511,62.9180274356603]]]],"type":"MultiPolygon"}
 }

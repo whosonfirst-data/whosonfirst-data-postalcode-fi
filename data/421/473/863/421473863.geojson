@@ -4,12 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Katuma",
+    "geom:area":0.000233,
+    "geom:bbox":"24.499233845,60.9775506186,24.5308240951,60.9919365824",
+    "geom:latitude":60.98537,
+    "geom:longitude":24.513771,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.985428,
+    "lbl:longitude":24.513532,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85683077,
         102191581,
@@ -22,7 +26,7 @@
         "gp:id":"12828398"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"822fad256de8d0b88529afe543744d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -34,19 +38,19 @@
         }
     ],
     "wof:id":421473863,
-    "wof:lastmodified":1459819508,
+    "wof:lastmodified":1464735181,
     "wof:name":"13250",
-    "wof:parent_id":"101815409",
+    "wof:parent_id":101815409,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.499233845035185,
+    60.97755061864343,
+    24.530824095064588,
+    60.991936582415256
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.51390531591365,60.99153389180611],[24.53082409506459,60.98275141558576],[24.52038286736082,60.98157496806137],[24.51984371520509,60.98135956891439],[24.52292075820194,60.97914906273936],[24.52063831587736,60.97790469537106],[24.51647835296213,60.97755061864343],[24.51358160786803,60.97930079987086],[24.51031810675864,60.98000851846273],[24.51029788416013,60.98001959745581],[24.50315800614206,60.98587197646627],[24.49923384503519,60.99193658241526],[24.51390531591365,60.99153389180611]]]],"type":"MultiPolygon"}
 }

@@ -4,49 +4,51 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Vuokatin Urheiluopisto",
+    "geom:area":0.000035,
+    "geom:bbox":"28.2800251983,64.1362770278,28.2892861209,64.1424126206",
+    "geom:latitude":64.139627,
+    "geom:longitude":28.284708,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":64.139572,
+    "lbl:longitude":28.284245,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        85683147,
         102191581,
         85633143,
-        404227409,
-        101814517
+        85683137,
+        404227415
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12830715"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"30485cb9d8f661c01cb601522defd831",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":101814517,
-            "macroregion_id":404227409,
+            "macroregion_id":404227415,
             "postalcode_id":421480177,
-            "region_id":85683147
+            "region_id":85683137
         }
     ],
     "wof:id":421480177,
-    "wof:lastmodified":1459819735,
+    "wof:lastmodified":1464734906,
     "wof:name":"88615",
-    "wof:parent_id":"101814517",
+    "wof:parent_id":85683137,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    28.280025198348678,
+    64.13627702775061,
+    28.289286120871488,
+    64.14241262064496
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.28928612087149,64.13786996451287],[28.28563462325399,64.13627702775061],[28.28198798092573,64.13788433112251],[28.28002519834868,64.14001432493652],[28.28194115139778,64.14183520009259],[28.28512047335991,64.14241262064496],[28.28793908599638,64.14215737488085],[28.28902148289727,64.14142272222225],[28.28861821500059,64.14075120863275],[28.2865937080729,64.14009527551731],[28.28770531560929,64.13834649378036],[28.28928612087149,64.13786996451287]]]],"type":"MultiPolygon"}
 }

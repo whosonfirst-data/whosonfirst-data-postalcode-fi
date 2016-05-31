@@ -4,12 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Totonvaara",
+    "geom:area":0.000022,
+    "geom:bbox":"25.3654104405,66.3744070834,25.3741582466,66.3783366492",
+    "geom:latitude":66.376496,
+    "geom:longitude":25.37056,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":66.376318,
+    "lbl:longitude":25.37056,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
         85683147,
         102191581,
@@ -22,7 +26,7 @@
         "gp:id":"12831041"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"23798a2a3447d93bdfb71e71800375a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -34,19 +38,19 @@
         }
     ],
     "wof:id":421479123,
-    "wof:lastmodified":1459819695,
+    "wof:lastmodified":1464735120,
     "wof:name":"97145",
-    "wof:parent_id":"101814487",
+    "wof:parent_id":101814487,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    25.365410440514104,
+    66.37440708340796,
+    25.374158246594906,
+    66.37833664918145
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[25.37370965825302,66.37521062045401],[25.37001394387757,66.37440708340796],[25.36832873736913,66.37528522891348],[25.36806718236483,66.37573038032048],[25.3654104405141,66.37579688702624],[25.36734921706549,66.37754591319052],[25.37109912208468,66.37820558128504],[25.37415824659491,66.37833664918145],[25.3739455668651,66.37606560955948],[25.37370965825302,66.37521062045401]]]],"type":"MultiPolygon"}
 }

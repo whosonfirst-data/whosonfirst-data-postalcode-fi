@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Kuumu",
+    "geom:area":0.01416,
+    "geom:bbox":"29.4928073432,64.5227709466,29.7353647988,64.6298349297",
+    "geom:latitude":64.580356,
+    "geom:longitude":29.622497,
     "gp:parent_id":"12590844",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":64.58321,
+    "lbl:longitude":29.622497,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683137,
+        404227415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12830727"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf1f5c5293bc1489b11d6e26067754fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227415,
+            "postalcode_id":421478531,
+            "region_id":85683137
+        }
+    ],
     "wof:id":421478531,
-    "wof:lastmodified":1459819671,
+    "wof:lastmodified":1464735177,
     "wof:name":"88940",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683137,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    29.492807343235192,
+    64.52277094658189,
+    29.735364798786737,
+    64.6298349296808
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[29.70110445300898,64.53185539244677],[29.69643339435472,64.52277094658189],[29.66009434158338,64.52728870141114],[29.61796400777771,64.53879574810497],[29.55489436760805,64.5653286409656],[29.49280734323519,64.59612295333497],[29.53080236972637,64.61473798743128],[29.54264024016917,64.61728173954864],[29.55949321625328,64.62090068315777],[29.58045010282205,64.62399119238346],[29.62014525722575,64.6298349296808],[29.73536479878674,64.58215687578335],[29.7285025159247,64.5732666056647],[29.70341949794083,64.56049294524361],[29.70110445300898,64.53185539244677]]]],"type":"MultiPolygon"}
 }

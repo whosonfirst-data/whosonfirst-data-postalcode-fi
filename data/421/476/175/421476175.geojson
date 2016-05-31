@@ -4,49 +4,51 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Moision Sairaala-alue",
+    "geom:area":0.000175,
+    "geom:bbox":"27.2705461868,61.649974784,27.2877204018,61.6667579589",
+    "geom:latitude":61.658108,
+    "geom:longitude":27.279862,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":61.656911,
+    "lbl:longitude":27.279862,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        85683109,
         102191581,
         85633143,
-        404227407,
-        101814083
+        85683109,
+        404227407
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12829578"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"acd999967ee1a2a03aba3aa71d8af566",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":101814083,
             "macroregion_id":404227407,
             "postalcode_id":421476175,
             "region_id":85683109
         }
     ],
     "wof:id":421476175,
-    "wof:lastmodified":1459819583,
+    "wof:lastmodified":1464734937,
     "wof:name":"50520",
-    "wof:parent_id":"101814083",
+    "wof:parent_id":85683109,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    27.270546186768016,
+    61.649974784041746,
+    27.287720401835543,
+    61.66675795891335
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.28670675349845,61.66581494286997],[27.28772040183554,61.66166535957844],[27.28466773622755,61.65502366624477],[27.28425114584674,61.65381260858077],[27.28322711443427,61.65175923226861],[27.27214153081429,61.64997478404175],[27.27054618676802,61.6524786281413],[27.27261056716063,61.65619005404589],[27.27410269757458,61.6569563449957],[27.27501474425519,61.65906658413434],[27.27696313579632,61.66124732302723],[27.2775574202146,61.66573022921852],[27.2805182343122,61.66675795891335],[27.28670675349845,61.66581494286997]]]],"type":"MultiPolygon"}
 }

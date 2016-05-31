@@ -4,49 +4,53 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Hyvink\u00e4\u00e4, sairaala-alue",
+    "geom:area":0.000018,
+    "geom:bbox":"24.8246395509,60.6074593939,24.8321613456,60.6117723439",
+    "geom:latitude":60.609634,
+    "geom:longitude":24.828253,
     "iso:country":"FI",
-    "src:geom":"geoplanet",
+    "lbl:latitude":60.609753,
+    "lbl:longitude":24.828196,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
-        85683147,
+        85683067,
         102191581,
         85633143,
-        404227409,
-        101814517
+        404227411,
+        101815237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12828243"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"245ca32d4c9a94a8048a92b873480ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633143,
-            "locality_id":101814517,
-            "macroregion_id":404227409,
+            "locality_id":101815237,
+            "macroregion_id":404227411,
             "postalcode_id":421479785,
-            "region_id":85683147
+            "region_id":85683067
         }
     ],
     "wof:id":421479785,
-    "wof:lastmodified":1459819717,
+    "wof:lastmodified":1464735073,
     "wof:name":"05850",
-    "wof:parent_id":"101814517",
+    "wof:parent_id":101815237,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    24.824639550897867,
+    60.607459393902865,
+    24.83216134557767,
+    60.611772343885356
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.83216134557767,60.61030267937419],[24.82998397606978,60.60857220500861],[24.82698168859637,60.60745939390286],[24.82610979480365,60.60758727876375],[24.82463955089787,60.60884107473734],[24.82536704126601,60.60952028373333],[24.82726824355461,60.61134299740331],[24.82884034275238,60.61177234388536],[24.83088150924695,60.61106752705327],[24.83216134557767,60.61030267937419]]]],"type":"MultiPolygon"}
 }

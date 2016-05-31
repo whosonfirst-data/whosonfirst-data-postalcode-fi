@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Uusi-Valamo",
+    "geom:area":0.000173,
+    "geom:bbox":"28.7591728328,62.5313399076,28.7848918802,62.5402830572",
+    "geom:latitude":62.535971,
+    "geom:longitude":28.771747,
     "gp:parent_id":"12590806",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":62.535482,
+    "lbl:longitude":28.771992,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683109,
+        404227407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12830440"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a85430757d7e9a8d672c0c779fbee05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227407,
+            "postalcode_id":421477987,
+            "region_id":85683109
+        }
+    ],
     "wof:id":421477987,
-    "wof:lastmodified":1459819647,
+    "wof:lastmodified":1464734887,
     "wof:name":"79850",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683109,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    28.759172832846996,
+    62.53133990759506,
+    28.784891880158337,
+    62.54028305717611
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.77984503952313,62.53230757575547],[28.77227047422923,62.53133990759506],[28.76056155843795,62.53298204638472],[28.759172832847,62.5343835363575],[28.75968240996362,62.53883687362376],[28.78344592832717,62.54028305717611],[28.78489188015834,62.53855807139833],[28.77984503952313,62.53230757575547]]]],"type":"MultiPolygon"}
 }

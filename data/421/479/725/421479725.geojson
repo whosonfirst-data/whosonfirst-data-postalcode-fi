@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Jylh\u00e4m\u00e4",
+    "geom:area":0.001166,
+    "geom:bbox":"26.740034118,64.5646447591,26.8041978936,64.587533426",
+    "geom:latitude":64.575424,
+    "geom:longitude":26.771035,
     "gp:parent_id":"12590877",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":64.575216,
+    "lbl:longitude":26.771035,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683137,
+        404227415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12830839"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39abedf4a33ff981fdc62c3b300ddd25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227415,
+            "postalcode_id":421479725,
+            "region_id":85683137
+        }
+    ],
     "wof:id":421479725,
-    "wof:lastmodified":1459819715,
+    "wof:lastmodified":1464734872,
     "wof:name":"91710",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683137,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    26.7400341180031,
+    64.56464475911937,
+    26.804197893555123,
+    64.5875334260461
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.76392254831908,64.56477178467631],[26.75067141277498,64.56464475911937],[26.74266946246352,64.572433993807],[26.7400341180031,64.58067028964268],[26.74501702769876,64.58753342604609],[26.76406108494041,64.58553756549404],[26.78747365126656,64.58504372562066],[26.80168211537656,64.57950478524255],[26.80419789355512,64.57222887186812],[26.80045795126827,64.56615293760886],[26.76392254831908,64.56477178467631]]]],"type":"MultiPolygon"}
 }

@@ -4,35 +4,52 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "figov:nimi":"Ruuvaoja",
+    "geom:area":0.042523,
+    "geom:bbox":"28.2021288555,67.5553971467,28.7525549599,67.7227609795",
+    "geom:latitude":67.63852,
+    "geom:longitude":28.458801,
     "gp:parent_id":"12590795",
     "iso:country":"FI",
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
+    "lbl:latitude":67.640198,
+    "lbl:longitude":28.45918,
+    "src:geom":"figov",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633143,
+        85683147,
+        404227409
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"12831147"
     },
     "wof:country":"FI",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f2d07185756e1fb613a0d5562a4ab33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633143,
+            "macroregion_id":404227409,
+            "postalcode_id":421479313,
+            "region_id":85683147
+        }
+    ],
     "wof:id":421479313,
-    "wof:lastmodified":1459819703,
+    "wof:lastmodified":1464734903,
     "wof:name":"98840",
-    "wof:parent_id":-1,
+    "wof:parent_id":85683147,
     "wof:placetype":"postalcode",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    28.202128855488564,
+    67.5553971467062,
+    28.7525549598651,
+    67.72276097953414
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.23161372190942,67.6430170758189],[28.2036969550441,67.69516397112255],[28.20212885548856,67.6977591601829],[28.23790381153584,67.72276097953414],[28.53286578213385,67.67627617918494],[28.58868555311819,67.65397150627099],[28.70269730460465,67.61224048814798],[28.7525549598651,67.59577384841471],[28.73477303611364,67.58979666554416],[28.66446103415473,67.56309950019376],[28.65342755536978,67.5585790165763],[28.62653788585821,67.5553971467062],[28.25388872183713,67.63803050499814],[28.23161372190942,67.6430170758189]]]],"type":"MultiPolygon"}
 }
