@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-05-31",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":421473161,
-    "wof:lastmodified":1459819485,
+    "wof:lastmodified":1464738881,
     "wof:name":"01100",
     "wof:parent_id":"101748417",
     "wof:placetype":"postalcode",

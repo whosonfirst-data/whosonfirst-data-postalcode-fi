@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-05-31",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.0,0.0,0.0,0.0",
@@ -34,7 +35,7 @@
         }
     ],
     "wof:id":421478601,
-    "wof:lastmodified":1459819673,
+    "wof:lastmodified":1464738882,
     "wof:name":"90160",
     "wof:parent_id":"101748443",
     "wof:placetype":"postalcode",
