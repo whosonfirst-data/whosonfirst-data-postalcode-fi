@@ -12,6 +12,7 @@
     "iso:country":"FI",
     "lbl:latitude":62.965037,
     "lbl:longitude":31.330826,
+    "mz:hierarchy_label":1,
     "src:geom":"figov",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -25,7 +26,7 @@
         "gp:id":"12830551"
     },
     "wof:country":"FI",
-    "wof:geomhash":"912afcc199c8d829ced0474b4d86cfde",
+    "wof:geomhash":"5b19d47a655c05d7d6f4c159459a1cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -36,16 +37,17 @@
         }
     ],
     "wof:id":421478185,
-    "wof:lastmodified":1464734904,
+    "wof:lastmodified":1469577656,
     "wof:name":"82967",
     "wof:parent_id":85683133,
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-fi",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    31.101659682659093,
+    31.10165968265909,
     62.85875920463366,
     31.57244623941667,
     63.07188983473918
